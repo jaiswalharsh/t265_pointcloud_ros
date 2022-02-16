@@ -1,0 +1,5 @@
+<!-- <launch>
+	<arg name="output" default="screen"/>
+	<node name="t265_pointcloud" pkg="t265_pointcloud_pub" type="pointcloud_node.py" output="$(arg output)">
+	</node>
+</launch> -->
